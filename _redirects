@@ -1,1 +1,5 @@
-/index.html /destination.html 302!
+/ /pages 302!
+
+/pages /pages/oldpage.html
+
+/pages/oldpage.html /destination.html 302!
